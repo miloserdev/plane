@@ -169,9 +169,3 @@ services:
       - api
       - space
       - admin
-
-volumes:
-  pgdata:
-  redisdata:
-  uploads:
-  rabbitmq_data:
